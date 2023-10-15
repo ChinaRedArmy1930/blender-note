@@ -21,19 +21,19 @@ _曲线_ 修改器为网格沿着一个曲线物体变形提供了一种简单�
 
 ### 然后新建一个曲线，在编辑模式下，将曲线移动到合适的位置
 
-
+<figure><img src="../.gitbook/assets/曲线移动到合适的位置.gif" alt=""><figcaption></figcaption></figure>
 
 ### 新增曲线修改器，将曲线物体选项指向曲线
 
-###
+<figure><img src="../.gitbook/assets/添加曲线修改器.gif" alt=""><figcaption></figcaption></figure>
 
 ### 在编辑模式下, 增加立方体环切面，并且将立方体的曲线修改器曲线物体指向这个曲线
 
-
+<figure><img src="../.gitbook/assets/增加物体环切面.gif" alt=""><figcaption></figcaption></figure>
 
 ### 此时我们可以移动物体, 达到我们想要的效果
 
-
+<figure><img src="../.gitbook/assets/移动物体.gif" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
