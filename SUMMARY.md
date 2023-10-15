@@ -8,5 +8,6 @@
   * [🥑 布尔修改器](xiu-gai-qi/bu-er-xiu-gai-qi.md)
   * [🪞 镜像修改器](xiu-gai-qi/jing-xiang-xiu-gai-qi.md)
   * [💾 实体化修改器](xiu-gai-qi/shi-ti-hua-xiu-gai-qi.md)
+  * [🎆 表面细分修改器](xiu-gai-qi/biao-mian-xi-fen-xiu-gai-qi.md)
 
 ## About us
