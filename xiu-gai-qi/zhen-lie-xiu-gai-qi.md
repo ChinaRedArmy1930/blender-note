@@ -16,7 +16,7 @@ description: >-
 
 按照指定数量的副本复制对象
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>固定数量</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>固定数量</p></figcaption></figure>
 
 ### 适配长度
 
@@ -25,7 +25,7 @@ description: >-
 {% hint style="info" %}
 此处需要给出物体长度的整数倍, 如果不给整数倍, 会向上取整
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 {% endhint %}
 
 ### 适配曲线
