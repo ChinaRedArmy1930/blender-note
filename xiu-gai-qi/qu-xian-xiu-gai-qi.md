@@ -3,7 +3,7 @@ description: >-
   官方文档：https://docs.blender.org/manual/zh-hans/dev/modeling/modifiers/deform/curve.html
 ---
 
-# 曲线修改器
+# 🪡 曲线修改器
 
 ## 使用场景
 
