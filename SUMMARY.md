@@ -7,5 +7,6 @@
   * [📀 倒角修改器](xiu-gai-qi/dao-jiao-xiu-gai-qi.md)
   * [🥑 布尔修改器](xiu-gai-qi/bu-er-xiu-gai-qi.md)
   * [🪞 镜像修改器](xiu-gai-qi/jing-xiang-xiu-gai-qi.md)
+  * [💾 实体化修改器](xiu-gai-qi/shi-ti-hua-xiu-gai-qi.md)
 
 ## About us
