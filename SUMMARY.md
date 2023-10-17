@@ -16,6 +16,7 @@
   * [🧊 晶格修改器](xiu-gai-qi/jing-ge-xiu-gai-qi.md)
   * [🦳 网格形变修改器](xiu-gai-qi/wang-ge-xing-bian-xiu-gai-qi.md)
   * [🤳 简易形变修改器](xiu-gai-qi/jian-yi-xing-bian-xiu-gai-qi.md)
+  * [🦴 精简修改器](xiu-gai-qi/jing-jian-xiu-gai-qi.md)
 * [⁉ Q\&A](q-and-a/README.md)
   * [❓ 使用阵列修改器中物体偏移复制的时候物体大小发生变化？](q-and-a/shi-yong-zhen-lie-xiu-gai-qi-zhong-wu-ti-pian-yi-fu-zhi-de-shi-hou-wu-ti-da-xiao-fa-sheng-bian-hua.md)
   * [🏳 简易修改变形器，平面在弯曲模式下不发生形变？](q-and-a/jian-yi-xiu-gai-bian-xing-qi-ping-mian-zai-wan-qu-mo-shi-xia-bu-fa-sheng-xing-bian.md)

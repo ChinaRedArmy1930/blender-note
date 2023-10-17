@@ -17,7 +17,7 @@ _简易形变_ 修改器允许对物体进行简单变形。网格、晶格、�
 
 ## 弯曲
 
-弯曲比较难理解，参考&#x20;
+弯曲比较难理解，参考 [jian-yi-xiu-gai-bian-xing-qi-ping-mian-zai-wan-qu-mo-shi-xia-bu-fa-sheng-xing-bian.md](../q-and-a/jian-yi-xiu-gai-bian-xing-qi-ping-mian-zai-wan-qu-mo-shi-xia-bu-fa-sheng-xing-bian.md "mention")
 
 <figure><img src="../.gitbook/assets/简易形变弯曲.gif" alt=""><figcaption></figcaption></figure>
 
