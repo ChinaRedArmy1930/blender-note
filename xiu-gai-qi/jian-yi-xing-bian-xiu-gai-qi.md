@@ -15,3 +15,16 @@ _简易形变_ 修改器允许对物体进行简单变形。网格、晶格、�
 
 扭曲模式适合制作螺旋结构，比如弹簧或者绳子。
 
+## 弯曲
+
+弯曲比较难理解，参考&#x20;
+
+<figure><img src="../.gitbook/assets/简易形变弯曲.gif" alt=""><figcaption></figcaption></figure>
+
+## 锥化 Trape&#x20;
+
+<figure><img src="../.gitbook/assets/锥化.gif" alt=""><figcaption></figcaption></figure>
+
+## 拉伸 Stretch
+
+<figure><img src="../.gitbook/assets/拉伸.gif" alt=""><figcaption></figcaption></figure>
