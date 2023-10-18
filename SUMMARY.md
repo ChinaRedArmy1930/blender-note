@@ -5,6 +5,7 @@
   * [制作铁链](ji-chu-lian-xi/zhi-zuo-tie-lian.md)
   * [制作流动的效果](ji-chu-lian-xi/zhi-zuo-liu-dong-de-xiao-guo.md)
 * [👋 修改器](xiu-gai-qi/README.md)
+  * [🛫 线框修改器](xiu-gai-qi/xian-kuang-xiu-gai-qi.md)
   * [🖍 阵列修改器](xiu-gai-qi/zhen-lie-xiu-gai-qi.md)
   * [📀 倒角修改器](xiu-gai-qi/dao-jiao-xiu-gai-qi.md)
   * [🥑 布尔修改器](xiu-gai-qi/bu-er-xiu-gai-qi.md)
