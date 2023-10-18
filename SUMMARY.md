@@ -1,6 +1,9 @@
 # Table of contents
 
-* [🐦 基础练习](README.md)
+* [🥎 编辑工具](README.md)
+  * [🪜 挤出](bian-ji-gong-ju/ji-chu/README.md)
+    * [⛽ 挤出选区](bian-ji-gong-ju/ji-chu/ji-chu-xuan-qu.md)
+* [🐦 基础练习](<README (1).md>)
   * [制作梯形](ji-chu-lian-xi/zhi-zuo-ti-xing.md)
   * [制作铁链](ji-chu-lian-xi/zhi-zuo-tie-lian.md)
   * [制作流动的效果](ji-chu-lian-xi/zhi-zuo-liu-dong-de-xiao-guo.md)
@@ -20,6 +23,7 @@
   * [🦴 精简修改器](xiu-gai-qi/jing-jian-xiu-gai-qi.md)
   * [🎩 多级精度修改器](xiu-gai-qi/duo-ji-jing-du-xiu-gai-qi.md)
 * [⁉ Q\&A](q-and-a/README.md)
+  * [🪶 WIP 立方体向下挤出，仍然保留面](q-and-a/wip-li-fang-ti-xiang-xia-ji-chu-reng-ran-bao-liu-mian.md)
   * [❓ 使用阵列修改器中物体偏移复制的时候物体大小发生变化？](q-and-a/shi-yong-zhen-lie-xiu-gai-qi-zhong-wu-ti-pian-yi-fu-zhi-de-shi-hou-wu-ti-da-xiao-fa-sheng-bian-hua.md)
   * [🏳 简易修改变形器，平面在弯曲模式下不发生形变？](q-and-a/jian-yi-xiu-gai-bian-xing-qi-ping-mian-zai-wan-qu-mo-shi-xia-bu-fa-sheng-xing-bian.md)
 
