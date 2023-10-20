@@ -22,3 +22,16 @@ description: >-
 黄色是blender计算出的两个面的平均法线
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+## 融并正交边
+
+官方解释: [融并正交边](https://docs.blender.org/manual/zh-hans/4.1/modeling/meshes/editing/face/extrude\_faces.html)
+
+没有找到更详细的解释，目前已知的效果如下
+
+*   当向内挤出时，消除挤出前的面
+
+    <figure><img src="../../.gitbook/assets/融并正交边.gif" alt=""><figcaption></figcaption></figure>
+*   当向外挤出时，消除挤出位置的边
+
+    <figure><img src="../../.gitbook/assets/融并正交边2.gif" alt=""><figcaption></figcaption></figure>
