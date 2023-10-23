@@ -1,6 +1,10 @@
 # Table of contents
 
-* [🥎 编辑工具](README.md)
+* [🖱 材质系统](README.md)
+  * [❔ Q\&A](cai-zhi-xi-tong/q-and-a/README.md)
+    * [😗 如何彻底删除材质？](cai-zhi-xi-tong/q-and-a/ru-he-che-di-shan-chu-cai-zhi.md)
+  * [0⃣ 快捷键](cai-zhi-xi-tong/kuai-jie-jian.md)
+* [🥎 编辑工具](<README (2).md>)
   * [🪜 挤出](bian-ji-gong-ju/ji-chu/README.md)
     * [⛽ 挤出选区](bian-ji-gong-ju/ji-chu/ji-chu-xuan-qu.md)
     * [📔 挤出流形](bian-ji-gong-ju/ji-chu/ji-chu-liu-xing.md)
@@ -27,7 +31,7 @@
   * [🦴 精简修改器](xiu-gai-qi/jing-jian-xiu-gai-qi.md)
   * [🎩 多级精度修改器](xiu-gai-qi/duo-ji-jing-du-xiu-gai-qi.md)
 * [⁉ Q\&A](q-and-a/README.md)
-  * [🪶 WIP 立方体向下挤出，仍然保留面](q-and-a/wip-li-fang-ti-xiang-xia-ji-chu-reng-ran-bao-liu-mian.md)
+  * [🪶 立方体向下挤出，仍然保留面](q-and-a/li-fang-ti-xiang-xia-ji-chu-reng-ran-bao-liu-mian.md)
   * [❓ 使用阵列修改器中物体偏移复制的时候物体大小发生变化？](q-and-a/shi-yong-zhen-lie-xiu-gai-qi-zhong-wu-ti-pian-yi-fu-zhi-de-shi-hou-wu-ti-da-xiao-fa-sheng-bian-hua.md)
   * [🏳 简易修改变形器，平面在弯曲模式下不发生形变？](q-and-a/jian-yi-xiu-gai-bian-xing-qi-ping-mian-zai-wan-qu-mo-shi-xia-bu-fa-sheng-xing-bian.md)
 
