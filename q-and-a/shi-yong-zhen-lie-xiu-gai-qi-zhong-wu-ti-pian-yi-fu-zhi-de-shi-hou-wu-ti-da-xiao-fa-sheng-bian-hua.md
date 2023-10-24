@@ -12,7 +12,7 @@
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>空对象缩放比例</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>模型比例缩放</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>模型比例缩放</p></figcaption></figure>
 
 ## 问题分析
 

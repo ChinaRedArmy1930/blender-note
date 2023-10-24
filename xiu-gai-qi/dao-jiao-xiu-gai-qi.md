@@ -15,7 +15,7 @@ description: >-
 
 #### 深度
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 限定方式
 
@@ -31,7 +31,7 @@ description: >-
 
 使用每个边的倒角权重来确定倒角的宽度。当倒角权重取 0.0 时，不会应用倒角。
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 顶点组
 

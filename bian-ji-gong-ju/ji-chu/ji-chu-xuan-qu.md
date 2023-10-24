@@ -7,9 +7,9 @@ description: >-
 
 挤出工具会复制顶点，但保持新几何元素与原始顶点相连，原来的顶点变成边，而边变成面。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 挤出面， 复制面，同时保持新几何体与原始顶点连接。
 
@@ -21,7 +21,7 @@ description: >-
 
 黄色是blender计算出的两个面的平均法线
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 融并正交边
 
