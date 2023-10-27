@@ -3,7 +3,7 @@
 * [🖱 材质系统](README.md)
   * [❔ Q\&A](cai-zhi-xi-tong/q-and-a/README.md)
     * [😗 如何彻底删除材质？](cai-zhi-xi-tong/q-and-a/ru-he-che-di-shan-chu-cai-zhi.md)
-  * [0⃣ 快捷键](cai-zhi-xi-tong/kuai-jie-jian.md)
+  * [0⃣ 快捷键1](cai-zhi-xi-tong/kuai-jie-jian.md)
   * [🪙 节点](cai-zhi-xi-tong/jie-dian/README.md)
     * [📔 输入类节点](cai-zhi-xi-tong/jie-dian/shu-ru-lei-jie-dian/README.md)
       * [⌨ 菲涅耳节点](cai-zhi-xi-tong/jie-dian/shu-ru-lei-jie-dian/fei-nie-er-jie-dian.md)
