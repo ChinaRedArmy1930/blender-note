@@ -12,6 +12,8 @@
     * [💽 输出类节点](cai-zhi-xi-tong/jie-dian/shu-chu-lei-jie-dian.md)
     * [🟢 着色器节点](cai-zhi-xi-tong/jie-dian/zhuo-se-qi-jie-dian/README.md)
       * [💚 原理化BSDF](cai-zhi-xi-tong/jie-dian/zhuo-se-qi-jie-dian/yuan-li-hua-bsdf.md)
+      * [💚 相加着色器](cai-zhi-xi-tong/jie-dian/zhuo-se-qi-jie-dian/相加着色器.md)
+      * [💚 混合着色器](cai-zhi-xi-tong/jie-dian/zhuo-se-qi-jie-dian/混合着色器.md)
     * [👸 纹理类型节点](cai-zhi-xi-tong/jie-dian/wen-li-lei-xing-jie-dian.md)
     * [🇨🇴 颜色类节点](cai-zhi-xi-tong/jie-dian/yan-se-lei-jie-dian.md)
     * [⚡ 矢量类型节点](cai-zhi-xi-tong/jie-dian/shi-liang-lei-xing-jie-dian.md)
@@ -48,5 +50,5 @@
   * [🪶 立方体向下挤出，仍然保留面](q-and-a/li-fang-ti-xiang-xia-ji-chu-reng-ran-bao-liu-mian.md)
   * [❓ 使用阵列修改器中物体偏移复制的时候物体大小发生变化？](q-and-a/shi-yong-zhen-lie-xiu-gai-qi-zhong-wu-ti-pian-yi-fu-zhi-de-shi-hou-wu-ti-da-xiao-fa-sheng-bian-hua.md)
   * [🏳 简易修改变形器，平面在弯曲模式下不发生形变？](q-and-a/jian-yi-xiu-gai-bian-xing-qi-ping-mian-zai-wan-qu-mo-shi-xia-bu-fa-sheng-xing-bian.md)
-
+  * [❓ 当如何修改物体原点?](q-and-a/如何修改物体原点.md)
 ## About us
