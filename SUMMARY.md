@@ -8,6 +8,7 @@
     * [📔 输入类节点](cai-zhi-xi-tong/jie-dian/shu-ru-lei-jie-dian/README.md)
       * [⌨ 菲涅耳节点](cai-zhi-xi-tong/jie-dian/shu-ru-lei-jie-dian/fei-nie-er-jie-dian.md)
       * [⭐ 几何数据节点](cai-zhi-xi-tong/jie-dian/shu-ru-lei-jie-dian/ji-he-shu-ju-jie-dian.md)
+      * [⭐ 纹理坐标节点](cai-zhi-xi-tong/jie-dian/shu-ru-lei-jie-dian/纹理坐标.md)
     * [💽 输出类节点](cai-zhi-xi-tong/jie-dian/shu-chu-lei-jie-dian.md)
     * [🟢 着色器节点](cai-zhi-xi-tong/jie-dian/zhuo-se-qi-jie-dian/README.md)
       * [💚 原理化BSDF](cai-zhi-xi-tong/jie-dian/zhuo-se-qi-jie-dian/yuan-li-hua-bsdf.md)
