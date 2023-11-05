@@ -19,6 +19,8 @@
     * [⚡ 矢量类型节点](cai-zhi-xi-tong/jie-dian/shi-liang-lei-xing-jie-dian.md)
     * [🥪 转换器类型节点](cai-zhi-xi-tong/jie-dian/zhuan-huan-qi-lei-xing-jie-dian.md)
     * [👨👧👦 群组类节点](cai-zhi-xi-tong/jie-dian/qun-zu-lei-jie-dian.md)
+* [⚡ 灯光](灯光/README.md)
+  * [🌏 世界环境](灯光/世界环境.md)
 * [🥎 编辑工具](bian-ji-gong-ju/README.md)
   * [🪜 挤出](bian-ji-gong-ju/ji-chu/README.md)
     * [⛽ 挤出选区](bian-ji-gong-ju/ji-chu/ji-chu-xuan-qu.md)
